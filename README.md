@@ -46,21 +46,21 @@ Working of the Project
 
 Water level data is stored using a Pandas DataFrame
 
-The data is analyzed to check:
+1 The data is analyzed to check:
 
 Warning Level (e.g., 70 cm)
 
-Danger Level (e.g., 100 cm)
+2.Danger Level (e.g., 100 cm)
 
-A line graph is plotted:
+3.A line graph is plotted:
 
 X-axis → Time
 
 Y-axis → Water level (cm)
 
-Horizontal lines show warning and danger thresholds
+4.Horizontal lines show warning and danger thresholds
 
-If water exceeds limits, it indicates possible flooding
+5.If water exceeds limits, it indicates possible flooding
 
 Output
 
